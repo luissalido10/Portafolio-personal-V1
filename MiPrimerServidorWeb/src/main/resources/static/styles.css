@@ -1,0 +1,51 @@
+body{
+    font-family: Tahoma, Verdana, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f9;
+    color: #333333;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+
+}
+
+h1{
+
+    color: #0056b3;
+
+}
+
+#sobremi{
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.destascar{
+    background-color: #e2f0ff;
+    padding: 15px;
+    border-left: 4px solid #0056b3;
+    font-weight: 500;
+
+}
+.tabla-bonita{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+.tabla-bonita th{
+    border: 1px solid #cccccc;
+    padding: 10px;
+    text-align: left;
+
+}
+
+.tabla-bonita td{
+    border: 2px solid #cccccc;
+    padding: 10px;
+    text-align: left;
+    background-color: aquamarine;
+    color: white;
+}
